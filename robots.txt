@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://databodrum.com/sitemap.xml
